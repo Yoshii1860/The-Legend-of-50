@@ -1,6 +1,10 @@
 # The Legend of 50
 This is a coursework project from Harvard University`s CS50G.
 
+<a href="https://youtu.be/gRJOuqPsDuo">
+    <img alt="Flaticon" title="Flaticon" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="30">
+</a>
+
 # Implemented Features
 
 Health-Restoring Hearts:
